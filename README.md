@@ -16,4 +16,4 @@ CSV and MSSQL </h3>
 - Profit by order
 
 
-<h4> All the data cleaning and vizualization was done using DAX in PowerBI</h4>
+<h4> All the data cleaning and visualisation was done using DAX in PowerBI</h4>

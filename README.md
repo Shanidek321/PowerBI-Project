@@ -1,5 +1,5 @@
 # PowerBI-Project
-<h3> The goal of the project is the visualize data from 2 different systems, 
+<h3> The goal of the project is the visualise data from 2 different systems, 
 CSV and MSSQL </h3>
 <h4>A few points about the project:</h4> 
 <br>
